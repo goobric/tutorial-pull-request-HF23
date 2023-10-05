@@ -138,4 +138,4 @@ A new window will appear to 'Open a pull request'
 - wait for the owner of the project to acknowledge the pull request.
   ![create pull request](images/06pullrequest2.png)
 
-Congratulations, you have successfully contributed to a repository project.
+Congratulations, you have successfully contributed to a project by raising an Issue and/or creating a Pull Request.
