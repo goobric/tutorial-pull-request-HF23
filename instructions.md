@@ -93,14 +93,14 @@ To make changes to the downloaded repository, it is best to use a Code Editor. U
 - [Bluefish](https://bluefish.openoffice.nl)
 - [Notepad++](https://notpad-plus.org)
 
-1. Using your code editor, open the folder where the repository was copied to.
+1. Using your code editor, navigate to and open the folder where the repository was copied to on your computer.
 
-- Make sure that you are editing the new-branch that was created
+- Make sure that you are editing the new-branch that was created in the [Clone](#clone) section.
 - If your code editor supports an integrated terminal, open the terminal within your editor
 - In this tutorial, I am using [VSCodium](https://vscodium.com)
 - The terminal shows the current working directory (1)
 
-1. **IMPORTANT:** Check which 'branch' is active by typing `git branch` (2)
+- **IMPORTANT:** Check which 'branch' is active by typing `git branch` (2)
 
 - current branch is 'main'
 
@@ -112,18 +112,18 @@ To make changes to the downloaded repository, it is best to use a Code Editor. U
 - the new branch is also indicated in the bottom corner
   ![branch](images/04newbranch4.png)
 
-1. Make meaningful changes to the file(s) and folders, the source-control icon indicates a change
-   ![changes](images/05sourcecontrol.png)
+- Make meaningful changes to the file(s) and folders, the source-control icon indicates a change
+  ![changes](images/05sourcecontrol.png)
 
-1. **IMPORTANT:** Save the changes made, by using the following commands in the terminal window.
-   1. type `git add` command with the name of the file, to stage the changes.
-   2. type `git commit -am` command with a message in "quotation marks", to commit the staged changes locally
-   3. use the `git push` command to push the changes to the repository stored on GitHub
+- **IMPORTANT:** Save the changes made, by using the following commands in the terminal window.
+  1.  type `git add` command with the name of the file, to stage the changes.
+  2.  type `git commit -am` command with a message in "quotation marks", to commit the staged changes locally
+  3.  use the `git push` command to push the changes to the repository stored on GitHub
       ![changes](images/05makechanges3.png)
 
 ### Pull Request
 
-A 'pull request' is the way of asking the owner of the original repository that you have made changes to their project.
+A 'pull request' is the way of informing the owner of the original repository that you have made changes to their project.
 
 If the owner agrees that the changes improves the their project, they will 'merge' the changes you have made to their repository.
 
