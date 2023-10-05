@@ -135,5 +135,7 @@ A new window will appear to 'Open a pull request'
 
 - write a polite respectful message to the owner of the original repository outlining the changes you have made and how this might improve the project
 - click on the green button 'Create pull request'
-- wait for the owner of the project to acknowledge the pull request and respond.
+- wait for the owner of the project to acknowledge the pull request.
   ![create pull request](images/06pullrequest2.png)
+
+Congratulations, you have successfully contributed to a repository project.
