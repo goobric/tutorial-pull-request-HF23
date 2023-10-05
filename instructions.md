@@ -31,7 +31,7 @@ When you 'star' a repository, this is giving the project a thumbs-up / like.
 
 github uses the Tree as a visual analogy of file management, and file changes.
 
-1. Making a 'new branch' means copying all the files and folders from the main repository.
+1. Making a 'new branch' means copying all the files and folders from the main repository, into a separate branch. This keeps the main branch in its original state, without any accidental changes.
 
 1. In your github account, with the 'forked' (copied) repository, click the 'main' button underneath the repository title.
    ![new branch](images/04newbranch1.png)
