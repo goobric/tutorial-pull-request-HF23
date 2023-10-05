@@ -1,10 +1,10 @@
-## Here are instructions on how to: Fork, make New Branch, Clone, flag Issue, Make Changes, and Pull Request.
+## Here are instructions on how to: Fork, make New Branch, Clone, flag an Issue, Make Changes, and Pull Request.
 
 - [Star](#star)
 - [Fork](#fork)
 - [New Branch](#new-branch)
 - [Clone](#clone)
-- [Flag Issues](#flag-issues)
+- [Raise Issues](#raise-issues)
 - [Make Changes](#make-changes)
 - [Pull Request](#pull-request)
 
@@ -64,7 +64,7 @@ github uses the Tree as a visual analogy of file management, and file changes.
    ![folder clone](images/03clonerepo3.png)
    Open the folder that has just been created, the contents of the repository will be shown.
 
-### Flag Issues
+### Raise Issues
 
 It is vital to share, with the maintainer, that a bug has been found in the project. This helps to improve the project, and makes it easier to use.
 To notify the repository owner that a bug has been found in the project, do the following:
