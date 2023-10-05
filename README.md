@@ -6,7 +6,7 @@ Before we get started, have you signed up for <a href="https://hacktoberfest.com
 
 This is a great way to contribute to the Open Source community.
 
-### This guide will help: Star, Fork, Clone, Create New Branch, Make Changes, flag Issues, and Send Pull Request
+### This guide will help explain: Star, Fork, Clone, Create New Branch, Make Changes, flag Issues, and Send Pull Request
 
 Instructions to help you do this are in the [instructions.md](/instructions.md) documentation.
 
