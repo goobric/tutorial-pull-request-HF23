@@ -72,7 +72,7 @@ To notify the repository owner that a bug has been found in the project, do the 
 - Click on the 'Issues' tab at the top left of the repository.
   ![issues](images/06issues1a.png)
 
-- Has the issue already been raised? Look through the list.
+- Has the issue already been raised? Look through the list (1), has someone been assigned to fix the issue (2).
   ![issues](images/06issues2.png)
 
 - If the issue hasn't been raised, then you can inform the repo owner.
