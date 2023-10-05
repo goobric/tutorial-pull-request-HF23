@@ -15,7 +15,7 @@ When you 'star' a repository, this is giving the project a thumbs-up / like.
 
 ### Fork
 
-'forking' is a term used in github to copy a repository from a project into your github account.
+'forking' is a term used in github to copy a repository of a project into your github account.
 
 1. Click on the Fork button in the top right of the page, under the main title.
 
