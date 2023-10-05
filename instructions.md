@@ -48,7 +48,6 @@ github uses the Tree as a visual analogy of file management, and file changes.
    ![clone](images/03clonerepo1.png)
 
 1. A green check/tick mark will appear and a button with Copied. This copied url link will be needed to clone the repository to the computer.
-   ![clone copied](images/03clonerepo2.png)
 
 1. Install Git (Version Control System) on your computer via this link [Git download](https://git-scm.com/download)
 
