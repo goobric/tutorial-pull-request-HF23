@@ -61,7 +61,7 @@ github uses the Tree as a visual analogy of file management, and file changes.
    - Windows: install Git Bash and open the program
    - Linux: press the keyboard combination Ctrl+Alt+T
 
-1. Navigate to the folder on your computer where you want to copy the github repository. Type 'git clone' and paste the repository url; then press enter on the keyboard.
+1. Navigate to the folder on your computer where you want to copy the github repository. Type `git clone` and paste the repository url; then press enter on the keyboard.
    ![folder clone](images/03clonerepo3.png)
    Open the folder that has just been created, the contents of the repository will be shown.
 
