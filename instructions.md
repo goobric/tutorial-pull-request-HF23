@@ -45,9 +45,9 @@ github uses the Tree as a visual analogy of file management, and file changes.
 'cloning' is a term used in github to copy a repository to your computer, creating a copy of the folders and files on the hard drive of your computer.
 
 1. Click the green Code button a dropdown menu will appear. Click on the icon with the two squares next to the url to copy it.
-   ![clone](images/03clonerepo1.png)
 
 1. A green check/tick mark will appear and a button with Copied. This copied url link will be needed to clone the repository to the computer.
+   ![clone copied](images/03clonerepo2.png)
 
 1. Install Git (Version Control System) on your computer via this link [Git download](https://git-scm.com/download)
 
