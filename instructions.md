@@ -37,7 +37,7 @@ github uses the Tree as a visual analogy of file management, and file changes.
    ![new branch](images/04newbranch1.png)
    Give the new branch a descriptive name
 
-1. **IMPORTANT:** next click on 'Create branch:(name) from main'
+1. **IMPORTANT:** next click on 'Create branch:(name) from main' this copies all the files from the main branch.
    ![use new branch](images/04newbranch2.png)
 
 ### Clone
