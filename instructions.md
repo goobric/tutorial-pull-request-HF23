@@ -1,4 +1,4 @@
-## Here are instructions on how to: Star, Fork, make New Branch, Clone, flag an Issue, Make Changes, and Pull Request.
+## Here are instructions on how to: Star, Fork, make New Branch, Clone, flag an Issue, Make Changes, and create a Pull Request.
 
 - [Star](#star)
 - [Fork](#fork)
