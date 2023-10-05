@@ -66,8 +66,8 @@ github uses the Tree as a visual analogy of file management, and file changes.
 
 ### Flag Issues
 
-To share with the maintainer that a bug has been found, is vital for the project. This helps to improve the project, and makes it easier to use.
-To notify the owner of the repository that an issue has been found, do the following:
+It is vital to share, with the maintainer, that a bug has been found in the project. This helps to improve the project, and makes it easier to use.
+To notify the repository owner that a bug has been found in the project, do the following:
 
 - Click on the 'Issues' tab at the top left of the repository.
   ![issues](images/06issues1a.png)
