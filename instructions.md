@@ -91,7 +91,7 @@ To make changes to the downloaded repository, it is best to use a Code Editor. U
 
 - [VSCode](https://code.visualstudio.com/)
 - [Bluefish](https://bluefish.openoffice.nl)
-- [Notepad++](https://notpad-plus.org)
+- [Notepad++](https://notepad-plus-plus.org)
 
 1. Using your code editor, navigate to and open the folder where the repository was copied to on your computer.
 
